@@ -15,7 +15,7 @@ h1{
 }
 h2 {
   font-family: 'Roboto Condensed';
-  color: 816C61;
+  color: #912F40;
   font-weight: lighter;
   font-size: 35px;
 }
@@ -42,7 +42,7 @@ text-align: center;}
 }
 
 .card img {
-  width: 250px;
+  width: 200px;
 }
 
 #footer {
